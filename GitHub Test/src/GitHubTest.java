@@ -11,8 +11,8 @@ public class GitHubTest
 		{
 			System.out.println(i);
 		}
-		//Open it up back at school to demonstrate you can move
-		//code back and forth and modify it both places.
+		
+		System.out.println("Final change. made at school.");
 
 		}
 	}
